@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+    <test name="Smoke Testcases">
+    <parameter name="adminUserid" value="abcd"/>   
+    <classes>
+        
+        <class name="testngFiles.Annotations">
+         
+      </class>
+      
+       
+       
+       <class name="testngFiles.Annot2" />
+       
+       
+    </classes>
+    
+    </test>
+    
+</suite>

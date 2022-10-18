@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+    <test name="Smoke Testcases">
+    <classes>
+        
+        <class name="testngFiles.Annotations">
+          <methods>
+            <exclude name="FlightBooking" />
+ </methods>  
+           
+      </class>
+      
+       
+       
+       <class name="testngFiles.Annot2" />
+       
+       
+    </classes>
+    
+    </test>
+    
+</suite>
